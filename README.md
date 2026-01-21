@@ -1,6 +1,6 @@
 # 💫 Hi 👋, I'm Saniya Idrisi
 
-**Learning MERN Stack || Problem-solvinf with DSA || Making projects**
+**Learning MERN Stack || Problem-solving with DSA || Making projects**
 Email Me 👉 ✉️ **saniyaidrisi14@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 🚀 Building projects and improving every day
