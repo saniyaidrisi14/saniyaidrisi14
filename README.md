@@ -5,15 +5,6 @@ Email Me 👉 ✉️ **saniyaidrisi14@gmail.com** For Collaboration/Project or A
 
 🚀 Building projects and improving every day
 
-🔭 **I’m currently working on:** JavaScript mini projects & DSA practice
-🌱 **I’m currently learning:** MERN Stack (MongoDB, Express, React, Node) + C++ DSA
-👯 **I’m looking to collaborate on:** Beginner-friendly open source or learning projects
-🤔 **I’m looking for help with:** DSA problem solving & full-stack concepts
-💬 **Ask me about:** Git, GitHub basics, C++ fundamentals
-📫 **How to reach me:** saniyaidrisi14@gmail.com
-😄 **Pronouns:** Saniya
-⚡ **Fun fact:** I love turning curiosity into discipline
-
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saniyaidrisi14@gmail.com) 
 
